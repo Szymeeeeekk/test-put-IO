@@ -1,1 +1,5 @@
 test
+
+ulepszone readme
+
+Koniec
